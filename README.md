@@ -25,5 +25,5 @@ I work with:
 
 ### 📫 Contact
 - Freiburg, Germany
-- Email: *(add if you want)*  
-- LinkedIn: *(we will build this together later)*  
+- Email: 
+- LinkedIn: 
