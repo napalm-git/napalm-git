@@ -2,8 +2,7 @@
 
 ### Computational Linguistics • NLP • Corpus Analysis • R • spaCy • PCA
 
-I'm an MA Linguistics student specializing in computational linguistics and
-quantitative language analysis.
+I'm a computational linguistics student specializing in quantitative text analysis, NLP (spaCy), and statistical modeling in R. I build end-to-end pipelines for corpus analysis, stylometry, and linguistic annotation. My work focuses on combining data-driven methods with linguistic theory to explore language, variation, and usage patterns.
 
 I work with:
 - R (tidyverse, ggplot2, broom, performance)
