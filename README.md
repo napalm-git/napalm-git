@@ -26,7 +26,7 @@ My work blends linguistic theory with data-driven modeling, focusing on corpus b
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
 
-### **Methods & Interests**
+### **Methods**
 
 <p>
   <img src="https://img.shields.io/badge/PCA%20%2F%20Dimensionality%20Reduction-8A2BE2?style=flat-square" />
