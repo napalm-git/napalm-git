@@ -1,4 +1,4 @@
-# 🌌 **Hi, I'm Ersin**
+# 🌌 **Hi, I'm Ersin** 👋
 
 ### *Computational Linguist • NLP • Corpus Analysis • R • spaCy • PCA*
 
