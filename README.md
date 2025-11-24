@@ -1,28 +1,86 @@
-## Hi, I'm Ersin 👋
+# 🌌 **Hi, I'm Ersin**
 
-### Computational Linguistics • NLP • Corpus Analysis • R • spaCy • PCA
+### *Computational Linguist • NLP • Corpus Analysis • R • spaCy • PCA*
 
-I'm a computational linguistics student specializing in quantitative text analysis, NLP (spaCy), and statistical modeling in R. I build end-to-end pipelines for corpus analysis, stylometry, and linguistic annotation. My work focuses on combining data-driven methods with linguistic theory to explore language, variation, and usage patterns.
+<p align="center">
+  <img src="https://img.shields.io/badge/Computational_Linguistics-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-228BE6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Text_Analysis-20B2AA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Corpus_Linguistics-FFD700?style=for-the-badge&logoColor=white" />
+</p>
 
-I work with:
-- R (tidyverse, ggplot2, broom, performance)
-- NLP with spaCy (via spacyr)
-- PCA / dimensionality reduction
-- POS- and dependency-based feature engineering
-- Corpus building & annotation
-- Statistical modeling of language attitudes and discourse markers
+I'm an MA Linguistics student specializing in **computational linguistics, NLP pipelines, and quantitative text analysis**.
+My work blends **linguistic theory** with **data-driven modeling**, focusing on corpus building, feature engineering, and reproducible R/Python workflows.
 
-### 🔭 Featured Projects
-- **Hemingway vs Lovecraft Stylometry (R, PCA, spaCy)**  
-  Computational analysis separating minimalist vs maximalist style.
+---
 
-- **Stella Survey Accent Perception Analysis**  
-  R Markdown + visualizations of status / solidarity ratings.
+## 🛠️ **Tech Stack**
 
-- **Discourse Marker Annotation**  
-  1500+ annotated tokens across age groups (Excel + R).
+### **Languages & Frameworks**
 
-### 📫 Contact
-- Freiburg, Germany
-- Email: ersinngultekinn@gmail.com
-- LinkedIn: https://www.linkedin.com/in/ersingultekin/
+<p>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/tidyverse-1A162D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+</p>
+
+### **Methods & Interests**
+
+<p>
+  <img src="https://img.shields.io/badge/PCA%20%2F%20Dimensionality%20Reduction-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Corpus%20Building-2F4F4F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Annotation-FF7F50?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stylometry-DC143C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Statistical%20Modeling-4169E1?style=flat-square" />
+</p>
+
+---
+
+## 📌 **Featured Projects**
+
+### 🔹 **Hemingway vs Lovecraft Stylometry**
+
+**Tools:** R, spaCy, PCA, ggplot2
+A computational stylometry pipeline comparing minimalist vs maximalist prose using POS-based features and dimensionality reduction.
+
+---
+
+### 🔹 **Stella Survey Accent Perception Analysis**
+
+**Tools:** R Markdown, visualization, statistical modeling
+A complete workflow for cleaning, structuring, and analyzing sociolinguistic survey data. Focus on accent perception & solidarity ratings.
+
+---
+
+### 🔹 **Discourse Marker Annotation**
+
+**Tools:** Excel → R preprocessing, ggplot2
+1500+ manually annotated discourse-marker tokens across age groups. Examines variation, distribution, and functional categories.
+
+---
+
+## 🔍 **Interests**
+
+* Quantitative corpus linguistics
+* NLP pipelines for linguistic research
+* Stylometry & author profiling
+* Feature engineering (POS, dependency, lexical)
+* Visualization-heavy analysis (ggplot2)
+* R Markdown & reproducible workflows
+
+---
+
+## 📫 **Contact**
+
+<p>
+  <a href="https://www.linkedin.com/in/ersingultekin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ersinngultekinn@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+📍 **Freiburg, Germany**
