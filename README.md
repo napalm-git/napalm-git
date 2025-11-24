@@ -25,5 +25,5 @@ I work with:
 
 ### 📫 Contact
 - Freiburg, Germany
-- Email: 
-- LinkedIn: 
+- Email: ersinngultekinn@gmail.com
+- LinkedIn: linkedin.com/in/ersingultekin/
