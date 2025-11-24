@@ -9,8 +9,8 @@
   <img src="https://img.shields.io/badge/Corpus_Linguistics-FFD700?style=for-the-badge&logoColor=white" />
 </p>
 
-I'm an MA Linguistics student specializing in **computational linguistics, NLP pipelines, and quantitative text analysis**.
-My work blends **linguistic theory** with **data-driven modeling**, focusing on corpus building, feature engineering, and reproducible R/Python workflows.
+I'm an MA Linguistics student specializing in computational linguistics, NLP pipelines, and quantitative text analysis.
+My work blends linguistic theory** with data-driven modeling, focusing on corpus building, feature engineering, and reproducible R/Python workflows.
 
 ---
 
