@@ -20,7 +20,7 @@ I work with:
 - **Stella Survey Accent Perception Analysis**  
   R Markdown + visualizations of status / solidarity ratings.
 
-- **Discourse Marker Annotation (Aging Study)**  
+- **Discourse Marker Annotation**  
   1500+ annotated tokens across age groups (Excel + R).
 
 ### 📫 Contact
