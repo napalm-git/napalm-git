@@ -20,7 +20,6 @@ My work blends linguistic theory with data-driven modeling, focusing on corpus b
 
 <p>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge" />
   <img src="https://img.shields.io/badge/tidyverse-1A162D?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
